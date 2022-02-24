@@ -4,10 +4,10 @@
 
 ## Table of contents
 1. [Introduction](##Introduction)
-2. [Problem Statement](##Problem Statement)
-3. [Entity Relationship Diagram](##Entity Relationship Diagram)
+2. [Problem Statement](##Problem-Statement)
+3. [Entity Relationship Diagram](##Entity-Relationship-Diagram)
 4. [Tables](##Tables)
-5. [Case Study Questions](##Case Study Questions)
+5. [Case Study Questions](##Case-Study-Questions)
 
 ## Introduction
 
