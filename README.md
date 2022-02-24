@@ -2,13 +2,6 @@
 
 ![alt text](https://visionedgemarketing.com/wp-content/uploads/2007/02/Customer-Loyaly-Program.png)
 
-## Table of contents
-1. [Introduction](##Introduction)
-2. [Problem Statement](##Problem-Statement)
-3. [Entity Relationship Diagram](##Entity-Relationship-Diagram)
-4. [Tables](##Tables)
-5. [Case Study Questions](##Case-Study-Questions)
-
 ## Introduction
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a
