@@ -1,4 +1,4 @@
-# Customer Loyality Program
+# Customer Loyalty Program
 
 ![alt text](https://visionedgemarketing.com/wp-content/uploads/2007/02/Customer-Loyaly-Program.png)
 
